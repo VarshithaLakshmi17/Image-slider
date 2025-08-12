@@ -4,7 +4,7 @@ A simple and responsive image slider built with HTML, CSS, and JavaScript. It al
 ---
 
 🌐 **Live Demo**  
-👉 [Click to view the app](https://VarshithaLakshmi17.github.io/image-slider/) 
+👉 [Click to view the app](https://VarshithaLakshmi17.github.io/Image-slider/
 
 ---
 
@@ -30,3 +30,4 @@ image-slider/
 ├── style.css
 ├── script.js
 └── README.md
+
